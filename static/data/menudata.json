@@ -1,0 +1,26 @@
+{
+    "menu":[
+        {"name":"新品","alias":"newproduct","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"手机","alias":"phones","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"电视","alias":"tvs","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"电脑","alias":"computers","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"家电","alias":"houseApplication","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"家装","alias":"houseDecorate","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"路由","alias":"routers","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"智能","alias":"AIs","childs":[{"id":"11","name":"剃须刀"},{"id":"22","name":"智能家庭"},{"id":"33","name":"VR眼镜"},{"id":"44","name":"摄像机"},{"id":"55","name":"智能插座"},{"id":"66","name":"尤克里里"}]},
+        {"name":"儿童","alias":"childhood","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"灯具","alias":"lamps","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"电源","alias":"powers","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"耳机","alias":"earphone","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"音箱","alias":"voicebox","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"礼品","alias":"presents","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"生活","alias":"lives","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"服务","alias":"services","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"会员卡","alias":"membershipCards","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"米粉卡","alias":"miCards","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]},
+        {"name":"零售店","alias":"retailStore","childs":[{"id":"1","name":"小米8"},{"id":"2","name":"小米6"},{"id":"3","name":"小米MIX"},{"id":"4","name":"红米S2"},{"id":"5","name":"红米6Pr"},{"id":"6","name":"红米6"}]}
+    ],
+    "footer":[{"name":"首页","alias":"first","path":"/first"},
+        {"name":"分类","alias":"first","path":"/first"},{"name":"发现","alias":"first","path":"/first"},
+        {"name":"购物车","alias":"first","path":"/first"},{"name":"我的","alias":"first","path":"/login"}]
+}

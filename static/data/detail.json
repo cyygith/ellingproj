@@ -1,0 +1,100 @@
+{
+    "goods":[
+        {
+            "id": "1",
+            "img":"mi6-img",
+            "name": "mi6",
+            "desc":"真4K屏|人工智能语音|1GB+8GB大内存|金属机身|杜比音效|海量片源",
+            "zh-name": "小米电视4A",
+            "size": "55",
+            "currPrice": "2499",
+            "orginPrice": "2799",
+            "discount": "300",
+            "promotion": "下单立减200元",
+            "color": [
+                {"zhname":"黑色","name":"black"},
+                {"zhname":"白色","name":"white"},
+                {"zhname":"灰色","name":"gray"}
+            ],
+            "inch": [
+                {"zhname":"55英寸","name":"55inch"},
+                {"zhname":"28英寸","name":"28inch"}
+            ],
+            "store": "20"
+        },
+        {
+            "id": "2",
+            "name": "hmnote3",
+            "img":"hm-img",
+            "desc":"全金属身|日本安来钢刀头|USB Type-C充电|小巧便携（2mm内胡须体验更加）",
+            "zh-name": "红米note3",
+            "size": "55",
+            "currPrice": "2499",
+            "orginPrice": "2799",
+            "discount": "300",
+            "promotion": "下单立减200元",
+            "color": [
+                {"zhname":"玫瑰色","name":"red"},
+                {"zhname":"菊花黄","name":"yello"},
+                {"zhname":"灰色","name":"gray"}
+            ],
+            "inch": [
+                {"zhname":"11英寸","name":"11inch"},
+                {"zhname":"24英寸","name":"24inch"}
+            ],
+            "store": "20"
+        }
+    ],
+    "goodsdetail":[
+        {
+            "id":"1",
+            "name":"小米电视4S 43英寸",
+            "desc":"真4K屏|人工智能语音|1GB+8GB大内存|金属机身|杜比音效|海量片源",
+            "price":"1799",
+            "addr":{"city":"厦门市","area":"思明区"},
+            "hasRepertory":"Y",
+            "choose":{"colorZh":"黑色","color":"black","count":"1"},
+            "promise":["七天无理由退货","30天质量问题换货","365天保修"],
+            "evaluate":{
+                "count":"1256",
+                "userImg":"img1",
+                "userId":"Elling16933",
+                "evaDesc":"我的第六个小米手机，超级好用，一如既往的好，万能的客服妹子给我来首古风藏字诗-震昱叶青，么么哒",
+                "evaDescImg":[{"name":"img1","url":""},{"name":"img3","url":""},{"name":"img3","url":""}],
+                "date":"2018-06-23",
+                "officialReply":{"content":"您是喜欢现代诗呢还是古代诗，五言的还是七言分，写景的还是抒情的————随便挑，反正我都不会O(∩_∩)O，感谢您对小米的支持"}
+            },
+            "summary":{
+
+            },
+            "param":{
+
+            }
+        },
+        {
+            "id":"2",
+            "name":"米家便携电动剃须刀",
+            "desc":"全金属身|日本安来钢刀头|USB Type-C充电|小巧便携（2mm内胡须体验更加）",
+            "price":"179",
+            "addr":{"city":"厦门市","area":"思明区"},
+            "hasRepertory":"Y",
+            "choose":{"colorZh":"红色","color":"black","count":"1"},
+            "promise":["七天无理由退货","30天质量问题换货","365天保修"],
+            "evaluate":{
+                "count":"9807",
+                "userImg":"img1",
+                "userId":"神仙打架凡人看戏",
+                "evaDesc":"剃胡须是为了让客服妹子有个完美的第一印象。约吗",
+                "evaDescImg":[{"name":"img1","url":""}],
+                "date":"2018-06-22",
+                "officialReply":{"content":"()度波湖,()度波湖,()行我素,()当户对,()依不饶,()法三章。楼下老铁们，送我上去，感谢您对小米的支持"}
+            },
+            "summary":{
+                
+            },
+            "param":{
+
+            }
+        }
+    ]
+}

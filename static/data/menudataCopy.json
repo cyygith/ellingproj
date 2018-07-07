@@ -1,0 +1,26 @@
+{
+    "menu":[
+        {"name":"新品","alias":"newproduct","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"手机","alias":"phones","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"电视","alias":"tvs","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"电脑","alias":"computers","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"家电","alias":"houseApplication","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"家装","alias":"houseDecorate","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"路由","alias":"routers","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"智能","alias":"AIs","childs":["剃须刀","智能家庭","VR眼镜","摄像机","智能插座","尤克里里"]},
+        {"name":"儿童","alias":"childhood","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"灯具","alias":"lamps","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"电源","alias":"powers","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"耳机","alias":"earphone","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"音箱","alias":"voicebox","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"礼品","alias":"presents","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"生活","alias":"lives","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"服务","alias":"services","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"会员卡","alias":"membershipCards","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"米粉卡","alias":"miCards","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]},
+        {"name":"零售店","alias":"retailStore","childs":["小米8","小米6","小米MIX","红米S2","红米6Pr","红米6"]}
+    ],
+    "footer":[{"name":"首页","alias":"first"},
+        {"name":"分类","alias":"first"},{"name":"发现","alias":"first"},
+        {"name":"购物车","alias":"first"},{"name":"我的","alias":"first"}]
+}

@@ -1,0 +1,148 @@
+body{
+    background-color: white;
+    color: black;
+}
+.goodsDetail{
+    background-color: rgba(233, 229, 229, 0.856);
+}
+/****翻转图片*****/
+.img div{
+    width: 96%;
+    height:100px;
+    padding:1rem;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 1rem rgba(68, 126, 233, 0.9) inset;
+}
+/****商品概览*****/
+.overview{
+    background-color: white;
+    line-height: 1.7rem;
+    padding-left: 1rem;
+    margin-bottom: 0.6rem;
+}
+
+.overview .o-title{
+    font-size: 1rem;
+}
+.overview .o-desc{
+    font-size:0.7rem;
+    color: rgb(160, 151, 151);
+    line-height: 1.2rem;
+}
+.overview .o-price{
+    color: red;
+}
+
+/****选择参数*****/
+.selectParam{
+    background-color: white;
+    position: relative;
+    line-height: 1.3rem;
+}
+.selectParam .s-box{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin: 0 0.7rem;
+}
+.selectParam .s-box .s-box-sel{
+    color: gray;
+    padding: 0.5rem;
+}
+.selectParam .s-box div{
+    padding: 0.5rem;
+}
+.selectParam .s-box-other{
+    position: absolute;
+    padding: 0.5rem;
+    right: 0;
+    margin-right: 1rem;
+}
+.selectParam .s-contain{
+    margin: 0 0.7rem;
+    display: flex;
+    font-size: 0.8rem;
+}
+.selectParam .s-contain-box{
+    padding: 0.6rem;
+
+}
+.selectParam .s-check{
+    border: 2px solid red;
+    border-radius: 40%;
+    color: red;
+}
+
+
+/****用户评价*****/
+.userComments{
+    margin-top: 0.5rem;
+    background-color: white;
+    border:1px solid yellow;
+    padding: 0 0.7rem;
+}
+.userComments .u-tilte{
+    display: flex;
+    position: relative;
+    padding:0.7rem;
+    border-bottom: 1px solid rgb(201, 198, 198);
+}
+
+.u-tilte .u-2{
+    padding: 0 0.5rem;
+    position: absolute;
+    right: 0;
+}
+.userComments .u-comment{
+    position: relative;
+    padding:1rem;
+    display: flex;
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+}
+.u-comment .u-c-img{
+    padding: 0.5rem;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    box-shadow: 0 0 1rem rgba(68, 126, 233, 0.9) inset;
+}
+.u-c-reply-img{
+    margin: 1.3rem 0;
+}
+.u-c-reply .u-c-reply-img span{
+    margin-right: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 0 1rem rgba(68, 126, 233, 0.6) inset;
+}
+.u-c-reply .u-c-reply-official{
+    background-color: rgb(243, 242, 242);
+    padding: 0.6rem;
+}
+.u-c-reply-official span{
+    color: red;
+}
+/****商品详情*****/
+.detail{
+    background-color: white;
+    margin-top: 0.6rem;
+    padding: 0.5rem;
+}
+.detail .d-title{
+    display: flex;
+    text-align: center;
+}
+.d-title div{
+    flex:1;
+    margin-bottom: 1rem;
+}
+.d-title div span{
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid orange;
+}
+.detail .d-detail div{
+    padding:10rem;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 0 1rem rgba(68, 126, 233, 0.3) inset;
+}

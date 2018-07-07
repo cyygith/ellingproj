@@ -1,0 +1,116 @@
+
+.addgoods{
+    position: relative;
+    background-color: rgba(233, 229, 229, 0.856);
+}
+.goodsreview-box{
+    background-color: white;
+    margin-bottom: 0.4rem;
+}
+.goodsreview{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding-bottom: 1rem;
+}
+.g-img{
+    flex:1;
+    padding:1rem;
+    border: 2px solid gray;
+    margin-right: 0.5rem;
+}
+.g-desc{
+    flex:4;
+    padding:0.6rem;
+    line-height: 1.5rem;
+}
+.g-desc .g-d-span1{
+    color: orangered;
+    padding-right: 0.4rem;
+}
+.g-desc .g-d-span2{
+    font-size: 0.8rem;
+    color: gray;
+    text-decoration: line-through;
+    padding-right: 0.4rem;
+    
+}
+.g-desc .g-d-span3{
+    color: white;
+    background-color: orangered;
+    font-size: 0.8rem;
+    
+}
+/***促销***/
+.promotion{
+    padding: 1rem;
+}
+.p-span-1{
+    color: gray;
+    font-size: 0.8rem;
+    margin-right: 1rem;
+}
+.p-span-2{
+    border: 1px solid red;
+    color: red;
+    font-size: 0.8rem;
+}
+
+/**属性**/
+.goodsparam{
+    background-color: white;
+    padding: 1rem 0.5rem;
+}
+.g-properties{
+    line-height: 2rem;
+    border-bottom: 1px solid gray;
+    padding-bottom: 1rem;
+}
+.g-p-div1{
+    color: gray;
+    margin: 0 0.3rem 0.5rem 0;   
+}
+.g-p-div2{
+    color: orangered;
+    margin-left: 0.5rem;  
+}
+.g-p-div2 span{
+    border: 1px solid orangered;
+    margin-right: 10px;
+    padding: 0.3rem;
+}
+.g-bay-count{
+    position: relative;
+    padding: 1rem;
+    display: flex;
+}
+.g-b-c-span1{
+    color: gray;
+}
+.g-b-c-div{
+    position: absolute;
+    right: 1rem;
+    border: 1px solid black;
+    display: flex;
+}
+.g-b-c-div span{
+    padding: 0.2rem 0.6rem;
+    flex: 1;
+}
+.g-b-c-div .g-b-c-min{
+    border-right: 1px solid gray;
+}
+.g-b-c-div .g-b-c-num{
+    border-right: 1px solid gray;
+}
+.goodfooter{
+    color: white;
+    background-color: orangered;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    height: 1.5rem;
+    padding: 1rem;
+    letter-spacing: 1rem;
+    font-size: 1.2rem;
+}
